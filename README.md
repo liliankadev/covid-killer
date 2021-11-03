@@ -1,5 +1,3 @@
 # covid-killer
 
-config file example:
-
-Potem napiszę hehe
+License G.N.U.

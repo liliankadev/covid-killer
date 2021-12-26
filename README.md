@@ -1,5 +1,5 @@
 # covid-killer
 
-![diagram](shemat.png)
+![diagram](diagram.png)
 
 License G.N.U.

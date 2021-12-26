@@ -1,0 +1,2 @@
+WIFI_SSID = '<SSID>'
+WIFI_PASSWD = '<PASS>'
